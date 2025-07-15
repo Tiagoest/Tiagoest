@@ -40,18 +40,19 @@ I'm a second-year student at E.E.E.P. Amélia Figueiredo de Lavor, enrolled in t
 
 <br>
 
-<p align="center">
+<p>
   <img 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tiagoest&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
-  <img 
-    alt="GitHub Stats" 
-    height="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoest&theme=dark&layout=compact" 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoest&theme=dark&layout=compact" 
   />
 
 </p>
