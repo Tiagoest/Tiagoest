@@ -42,7 +42,7 @@ I'm a second-year male student at **E.E.E.P. Amélia Figueiredo de Lavor**, enro
 
 <br>
 
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Stats" 
     height="200" 
