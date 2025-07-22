@@ -1,10 +1,12 @@
 # 🍂 Tiago Estêvão
 
 **`System Developer`**
-**`Backend`**
+**`Back-end`**
+**`Python`**
 **`Beginner`**
 
-I'm a second-year student at E.E.E.P. Amélia Figueiredo de Lavor, enrolled in the Systems Development program. I'm still at the beginning of my journey, but already focused on backend and determined to become a leader in the field. I'm always striving to learn more, grow, and evolve with each project.
+I'm a second-year male student at **E.E.E.P. Amélia Figueiredo de Lavor**, enrolled in the **Systems Development course**. Currently focused on **backend development**, with **Python** as my primary programming language. I’m actively studying **Python** and improving my technical skills through consistent practice. Always aiming to grow and evolve within the technology field.
+
 
 <p align="left">
     <!-- Profile views-->
@@ -40,19 +42,18 @@ I'm a second-year student at E.E.E.P. Amélia Figueiredo de Lavor, enrolled in t
 
 <br>
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tiagoest&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoest&theme=dark&layout=compact" 
+  <img 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagoest&theme=dark&layout=compact" 
   />
 
 </p>
