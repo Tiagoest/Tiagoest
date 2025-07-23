@@ -5,7 +5,7 @@
 **`Python`**
 **`Beginner`**
 
-I'm a second-year male student at **E.E.E.P. Amélia Figueiredo de Lavor**, enrolled in the **Systems Development course**. Currently focused on **backend development**, with **Python** as my primary programming language. I’m actively studying **Python** and improving my technical skills through consistent practice. Always aiming to grow and evolve within the technology field.
+I'm a second-year male student, at **E.E.E.P. Amélia Figueiredo de Lavor**, enrolled in the **Systems Development course**. Currently focused on **backend development**, with **Python** as my primary programming language. I’m actively studying **Python** and improving my technical skills through consistent practice. Always aiming to grow and evolve within the technology field.
 
 
 <p align="left">
